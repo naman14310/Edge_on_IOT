@@ -1,7 +1,6 @@
 # Edge on IOT Platform
 A Platform built on Microservice architecture, where developers can register various types of sensors, and deploy business logics and, endusers can schedule them according to their usecases.
 
-<br>
 
 ### Modules
 1. Application Manager
