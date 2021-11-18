@@ -5,11 +5,11 @@ A Platform built on Microservice architecture, where developers can register var
 ### Modules
 1. Application Manager
 2. Platform Manager
-3. Sensor Manager
-4. Scheduler
-5. Load Balancer
-6. Monitoring Module
-7. Platform Initializer
+3. Platform Initializer or BootStrap Module
+4. Sensor Manager
+5. Scheduler
+6. Load Balancer
+7. Monitoring Module
 
 <br>
 
