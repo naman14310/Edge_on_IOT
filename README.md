@@ -13,4 +13,4 @@ A Platform built on Microservice architecture, where developers can register var
 
 <br>
 
-**Technologies used:** Python, Flask, MongoDB, Socket Programming, Multithreading
+**Technologies used:** Python, Flask, MongoDB, Kafka, Socket Programming, Multithreading
